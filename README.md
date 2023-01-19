@@ -2,4 +2,4 @@
 
 
 ## Spring
-- [MSA](https://github.com/sylim95/study/tree/main/MSA-Project) Project
+- [MSA Project](https://github.com/sylim95/study/tree/main/MSA-Project)
